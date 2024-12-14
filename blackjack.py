@@ -3,7 +3,7 @@ This program runs a game of blackjack completely in the terminal.
 It can be played for fun by any user, and it is a great way to pass time or have fun with friends.
 It can also help gambling addicts by gambling with vitual money instead of real money.
 
-Game by Soutine/iodineschool for AP CSP
+Game by Soutine/Fuwina/JV for AP CSP
 '''
 
 import random
